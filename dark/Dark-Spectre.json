@@ -4,7 +4,7 @@
         "name": "Dark Spectre 😎",
         "license": "MIT License",
         "transparency_mode": 0,
-        "version": "3.4",
+        "version": "3.5",
         "updater": "https:\/\/raw.githubusercontent.com\/cool-dev-code\/aliucord-themes\/main\/dark\/Dark-Spectre.json"
     },
     "background": {},
@@ -30,7 +30,7 @@
         "primary_500": -14188851,
         "primary_700": -16119286,
         "primary_dark_300": -6710887,
-        "primary_dark_330": -11842741,
+        "primary_dark_330": -9539986,
         "primary_dark_360": -8355712,
         "primary_dark_400": -2883584,
         "primary_dark_600": -15395563,
