@@ -4,10 +4,10 @@
         "name": "Dark Spectre 😎",
         "license": "MIT License",
         "transparency_mode": 0,
-        "version": "3.5",
-        "updater": "https:\/\/raw.githubusercontent.com\/cool-dev-code\/aliucord-themes\/main\/dark\/Dark-Spectre.json"
+        "version": "4.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/code-fanatic\/aliucord-themes\/main\/dark\/Dark-Spectre.json"
     },
-    "background": {},
+"background": {},
     "fonts": {},
     "raws": {},
     "simple_colors": {
@@ -18,7 +18,7 @@
         "mention_highlight": 422018765,
         "mention_highlight_text": -1,
         "mention_highlight_border": -1,
-        "blocked_bg": -11203062,
+        "blocked_bg": -10944512,
         "active_channel": -1,
         "accent": -10605888
     },
@@ -50,13 +50,15 @@
         "uikit_btn_bg_color_selector_green": -14565277,
         "white_800": -12961222,
         "material_grey_50": -12961222,
-        "primary_text_default_material_light": -6710887
+        "primary_text_default_material_light": -6710887,
+        "brand_new_500": -16742657,
+        "ripple_material_light": -16767930
     },
     "drawable_tints": {
         "abc_textfield_default_mtrl_alpha": -16777216,
         "abc_textfield_search_material": -16777216,
         "drawable_button_red": -5177344,
-        "drawable_overlay_channels_selected_dark": -15979961,
+        "drawable_overlay_channels_selected_dark": -12895429,
         "ic_account_circle_white_a60_24dp": -8869,
         "ic_arrow_right_24dp": -8869,
         "ic_channel_announcements": -14303143,
